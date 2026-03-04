@@ -30,10 +30,10 @@ function App() {
         <FlexBox>
           <div>
             <Text>
-              Aquastructures AS er en bedrift som spesialiserer seg på å utvikle og implementere løsninger for vannrelaterte strukturer og infrastruktur.
+              Aquastructures AS er en bedrift som spesialiserer seg på å utvikle og sertifisere flytende strukturer innen havbruk.
             </Text>
             <Text>
-              De har 31 folk ansatt og har hovedkontor i Trondheim.
+              De har 33 folk ansatt og har hovedkontor i Trondheim.
             </Text>
           </div>
           <Image src={Lillebrygga} alt='Lillebrygga' width="30%" />
